@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1557
+slug  : the-quantize
+seal  : e9f43fd4f358b17214ca2d02e4d219967ee81874bdae4922b202d9622dc225d6
+prev  : f79bb721fa52562ee93593c62deb3c9f60148f1d27802ebaa72400cc08fc8714
+link  : 69a5c44c90874c67e851627331b8ebc9223d7f09fbadfe3fc578dfd981542985
+head  : 69a5c44c90874c67e851627331b8ebc9223d7f09fbadfe3fc578dfd981542985
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
